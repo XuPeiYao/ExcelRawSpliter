@@ -32,8 +32,11 @@ namespace ExcelRawSpliter {
             for (int i = 0; i < worksheetNames.Length; i++) {
                 Console.WriteLine($"[{i}]\t{worksheetNames[i]}");
             }
-            
-            int selected = InputInt("請輸入上列清單中的代號",5);
+
+            int selected = -1;
+            do {
+                selected = InputInt("請輸入上列清單中的代號", 5);
+            } while (selected < 0 || selected >= worksheetNames.Length);
             Alert($"您已經選擇工作表 {worksheetNames[selected]}");
 
             IEnumerable<object[]> worksheet = null;
