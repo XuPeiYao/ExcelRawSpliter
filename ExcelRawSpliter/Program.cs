@@ -75,13 +75,13 @@ namespace ExcelRawSpliter {
                 }
                 tempCell.InsertData(worksheet.Skip(i).Take(splitCount));
 
-
+                double p = i / (double)worksheet.Count();
                 string NewPath = path + fileName + $"-{Math.Floor(i / (double)splitCount) + 1}.xlsx";
-                Console.WriteLine($"儲存{NewPath}");
+                Console.WriteLine($"{Math.Round(p * 100)}%\t儲存{NewPath}");
                 tempWorkbook.SaveAs(path + fileName + $"-{Math.Floor(i/(double)splitCount) + 1}.xlsx");
             }
 
-            Success("分割動作已經完成!");
+            Success("100%\t分割動作已經完成!");
 
             Console.WriteLine("請按任意鍵關閉本程式...");
             Console.ReadKey();
