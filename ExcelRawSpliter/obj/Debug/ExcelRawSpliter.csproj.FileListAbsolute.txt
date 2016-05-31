@@ -1,0 +1,14 @@
+C:\Users\XuPeiYao\Documents\GitHub\ExcelRawSpliter\ExcelRawSpliter\bin\Debug\ExcelRawSpliter.exe.config
+C:\Users\XuPeiYao\Documents\GitHub\ExcelRawSpliter\ExcelRawSpliter\bin\Debug\ExcelRawSpliter.exe
+C:\Users\XuPeiYao\Documents\GitHub\ExcelRawSpliter\ExcelRawSpliter\bin\Debug\ExcelRawSpliter.pdb
+C:\Users\XuPeiYao\Documents\GitHub\ExcelRawSpliter\ExcelRawSpliter\bin\Debug\LinqToExcel.dll
+C:\Users\XuPeiYao\Documents\GitHub\ExcelRawSpliter\ExcelRawSpliter\bin\Debug\log4net.dll
+C:\Users\XuPeiYao\Documents\GitHub\ExcelRawSpliter\ExcelRawSpliter\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\XuPeiYao\Documents\GitHub\ExcelRawSpliter\ExcelRawSpliter\bin\Debug\Remotion.dll
+C:\Users\XuPeiYao\Documents\GitHub\ExcelRawSpliter\ExcelRawSpliter\bin\Debug\Remotion.Interfaces.dll
+C:\Users\XuPeiYao\Documents\GitHub\ExcelRawSpliter\ExcelRawSpliter\bin\Debug\LinqToExcel.xml
+C:\Users\XuPeiYao\Documents\GitHub\ExcelRawSpliter\ExcelRawSpliter\bin\Debug\log4net.xml
+C:\Users\XuPeiYao\Documents\GitHub\ExcelRawSpliter\ExcelRawSpliter\obj\Debug\ExcelRawSpliter.csprojResolveAssemblyReference.cache
+C:\Users\XuPeiYao\Documents\GitHub\ExcelRawSpliter\ExcelRawSpliter\obj\Debug\ExcelRawSpliter.exe
+C:\Users\XuPeiYao\Documents\GitHub\ExcelRawSpliter\ExcelRawSpliter\obj\Debug\ExcelRawSpliter.pdb
+C:\Users\XuPeiYao\Documents\GitHub\ExcelRawSpliter\ExcelRawSpliter\bin\Debug\TEST.xls
